@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.select_country {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  margin-top: 50px;
+}
